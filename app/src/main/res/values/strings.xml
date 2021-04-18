@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Send an Email App</string>
+    <string name="subject">Subject</string>
+    <string name="to">To</string>
+    <string name="send_an_email_to_your_favourite_ones">Send an Email To Your Favourite Ones</string>
+    <string name="message">Message</string>
+
+    <string name="enter_the_recceiver_s_email">Enter the Recceiver email</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_subject">Enter the Subject</string>
+    <string name="send">Send</string>
+    <string name="enter_your_message">Enter Your message</string>
+</resources>
